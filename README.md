@@ -20,5 +20,11 @@ I created an isolated cybersecurity home lab using Kali Linux and Metasploitable
 
 [View My Network Security Assessment Project](https://github.com/Runahmed/Network-Security-Assessment)
 
+### Intrusion Detection Investigation
+
+I conducted a hands-on intrusion detection investigation using DVWA and PHPIDS in an isolated cybersecurity home lab. I examined suspicious web requests, reviewed intrusion detection logs, and documented potential cross-site scripting (XSS) activity.
+
+[View My Intrusion Detection Investigation Project](https://github.com/Runahmed/Intrusion-Detection-Investigation)
+
 ## 🎯 Career Goals
 My goal is to become a cybersecurity professional, with a focus on security analysis, threat detection, and risk management. I'm interested in internship and entry-level opportunities where I can continue learning and growing.
